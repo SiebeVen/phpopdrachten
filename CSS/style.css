@@ -1,0 +1,50 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+}
+h1
+{
+    text-align: center;
+    background-color: darkkhaki;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #FFF787;
+}
+h2
+{
+    margin: 0px;
+}
+aside
+{
+    background-color: grey;
+    float: left;
+    padding-right: 10vh;
+    padding-top: 5vh;
+    margin-right: 1vh;
+}
+#menu
+{
+    margin-left: 1vh;
+}
+li
+{
+    list-style-type: none;
+    margin-top: 10px;
+}
+a
+{
+    text-decoration: none;
+    color: lightgray;
+
+}
+a:hover
+{
+    color: #FFF787;
+}
+#wrapper
+{
+    padding-top: 5vh;
+}

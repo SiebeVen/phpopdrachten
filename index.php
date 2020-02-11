@@ -15,10 +15,10 @@
     </head>
     <body>
     <header>
-    <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
+    <h1 id="h1"><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
     </header>
     <aside>
-        <h2>Menu</h2>
+        <h2 id="menu">Menu</h2>
         <ul>
             <li>
                 Hoofdstuk 2
