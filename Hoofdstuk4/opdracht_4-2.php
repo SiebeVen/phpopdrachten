@@ -2,6 +2,7 @@
 include "../INCLUDES/header.php";
 include "../INCLUDES/aside.php";
 //main hieronder
+ja
 include "script.php";
 ?>
 
