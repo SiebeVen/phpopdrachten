@@ -10,6 +10,7 @@
     <title><?php echo "Uitwerking van PHP/opdrachten"; ?></title>
     <link href="/phpopdrachten/CSS/header.css" type="text/css" rel="stylesheet">
     <link href="/phpopdrachten/CSS/aside.css" type="text/css" rel="stylesheet">
+    <link href="/phpopdrachten/CSS/footer.css" type="text/css" rel="stylesheet">
 </head>
 <body>
 <header>
