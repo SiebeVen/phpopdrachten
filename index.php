@@ -15,7 +15,7 @@
     </head>
     <body>
     <header>
-    <h1 id="h1"><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
+        <a href="/phpopdrachten/index.php"><h1 id="h1"><?php echo "Uitwerking van PHP-opdrachten"; ?></h1></a>
     </header>
     <aside>
         <h2 id="menu">Menu</h2>

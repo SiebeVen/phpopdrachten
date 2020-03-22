@@ -27,6 +27,8 @@ a:hover
 #wrapper
 {
     display: inline-block;
+    width: 75vh;
+    height: ;
 }
 h2
 {
