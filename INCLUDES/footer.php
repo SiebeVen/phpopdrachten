@@ -29,14 +29,14 @@ include  "../Hoofdstuk3/variabelen.php";
     }
 //   echo $name;
 //    echo " ".$year;
-    session_start();
+
     if (isset($_SESSION['username']))
     {
-       $bezoeker = $_SESSION['username']. "&nbsp;<a href='/../../phpopdrachten/Hoofdstuk%206/Opdracht%206.1/loguit.php'>Loguit</a>";
+       $bezoeker = $_SESSION['username']. "&nbsp;<a href='/../../phpopdrachten/Hoofdstuk%206/loguit.php'>Loguit</a>";
     }
     else
     {
-        $bezoeker = "onbekende bezoeker". "&nbsp;<a href='/../../phpopdrachten/Hoofdstuk%206/Opdracht%206.1/opdracht61.php'>Login</a>";
+        $bezoeker = "onbekende bezoeker". "&nbsp;<a href='/../../phpopdrachten/Hoofdstuk%206/opdracht61.php'>Login</a>";
     }
     echo $hour." ".$bezoeker." "."&copy;"." ".$year."";
     ?>

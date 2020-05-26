@@ -2,6 +2,7 @@
 /*
  * User: Siebe van der Ven
  */
+session_start();
 ?>
 <!DOCTYPE html>
 <html lang="en">

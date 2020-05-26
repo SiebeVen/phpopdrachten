@@ -20,7 +20,7 @@
             Hoofdstuk 3
             <ul>
                 <li>
-                    <a href="../Hoofdstuk3/opdracht_3-1.php"/>Opdracht 3.1</a>
+                    <a href="../Hoofdstuk3/opdracht_3-1.php">Opdracht 3.1</a>
                 </li>
                 <li>
                     <a href="../Hoofdstuk3/opdracht_3-2.php">Opdracht 3.2</a>
@@ -61,7 +61,7 @@
                     <a href="../Hoofdstuk5/opdracht_5-2.php">Opdracht 5.2</a>
                 </li>
                 <li>
-                    <a href="..//opdracht_5-3.php">Opdracht 5.3</a>
+                    <a href="../Hoofdstuk5/opdracht_5-3.php">Opdracht 5.3</a>
                 </li>
                 <li>
                     <a href="../Hoofdstuk5/opdracht_5-4.php">Opdracht 5.4</a>
